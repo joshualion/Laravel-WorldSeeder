@@ -1,2 +1,2 @@
 # Laravel-WorldSeeder
-Seeder Files for Continents, Countries, States, and capital cities across the globe
+Seeder and migration Files for Continents, Countries, States, and capital cities across the globe
